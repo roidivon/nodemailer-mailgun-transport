@@ -19,6 +19,7 @@ var whitelistExact = [
   'attachment',
   'inline',
   'recipient-variables',
+  'icalEvent',
   'o:tag',
   'o:campaign',
   'o:dkim',
